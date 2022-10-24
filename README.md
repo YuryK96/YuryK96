@@ -1,6 +1,6 @@
-### Hi My name is Yura :simple_smile:
+### Hi My name is Yura 🐥 
 
-:small_blue_diamond: I'm Frontend developer 🐥 
+:small_blue_diamond: I'm Frontend developer :sunny:
 
 :small_blue_diamond: I love learning new technologies and applying them to my work 📚 
 
