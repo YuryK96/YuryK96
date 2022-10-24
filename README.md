@@ -1,4 +1,4 @@
-### Hi my name is Yura 🐥 
+### Hi my name is Yury 🐥 
 
 :small_blue_diamond: I'm Frontend developer :sunny:
 
