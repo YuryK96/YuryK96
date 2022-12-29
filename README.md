@@ -6,4 +6,4 @@
 
 :small_blue_diamond: I have experience in SPA creation and supporting them :computer:
 
-:small_blue_diamond: My stack: React/JS/Sass/BEM 🚀
+:small_blue_diamond: My stack: React/Redux/TS/SCSS 🚀
